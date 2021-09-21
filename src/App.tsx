@@ -1,4 +1,5 @@
 import React from 'react';
+import {Inhabitant} from './data/inhabitants';
 import logo from './logo.svg';
 import './App.css';
 
